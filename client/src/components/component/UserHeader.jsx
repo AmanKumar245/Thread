@@ -30,7 +30,11 @@ function UserHeader() {
       <Avatar.Fallback name="Segun Adebayo" />
       <Avatar.Image src="/post1.png" />
     </Avatar.Root>
+<<<<<<< HEAD
     </Box> 
+=======
+    </Box>
+>>>>>>> 6d20c6dd525916fb672b1749af7064ba0ebf629f
   </Flex>
   <Text w={"full"} justifyContent={"center"}  fontSize = {"md"}>
         Full Stack Developer
